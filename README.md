@@ -20,7 +20,7 @@ Fill your credential from zenziva sms gateway
 You can run with
 ```bash
 $ pipenv shell
-$ python main.py
+$ python main.py notifications
 ```
 And you can send new message with
 ```bash
